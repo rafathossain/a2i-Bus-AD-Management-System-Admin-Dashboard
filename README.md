@@ -6,7 +6,7 @@
 
 ## Demo
 
-The demo can be viewed <a href="https://rafathossain96.github.io/a2i-Bus-AD-Management-System-Manager-Dashboard/" target="_blank">here</a>.
+The demo can be viewed <a href="https://rafathossain96.github.io/a2i-Bus-AD-Management-System-Admin-Dashboard/" target="_blank">here</a>.
 
 # License
 
