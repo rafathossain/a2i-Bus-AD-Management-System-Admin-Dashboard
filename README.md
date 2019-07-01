@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/img/logo/a2i.png" width="150px"/><br>
+<p align="center"><img src="images/logo/a2i.png" width="150px"/><br>
   <b>a2i Bus AD Management System</b>
 </p>
 
